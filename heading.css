@@ -1,11 +1,3 @@
-@import "normalize.css";
-/*
-  Theme Name: test
-  Author: [Chimera]
-  Description: design
-  Version: 0.1
-  Tags: light
-*/
 .heading {
   display: block;
   border-top: 13px solid #39434d;
@@ -29,15 +21,4 @@
 .heading_color_orange {
   border-top-color: #ee682f;
   background-color: #fa824f;
-}
-.button {
-  display: block;
-  background-color: #f07e06;
-  border: 1px solid #c56b1b;
-  border-radius: 3px;
-  height: 40px;
-  width: 150px;
-  font-family: Verdana;
-  font-weight: bold;
-  color: white;
 }
