@@ -79,3 +79,12 @@
   background-color: #f5f0ec;
   margin-top: 15px;
 }
+.main-columns__left {
+  float: left;
+}
+.main-columns__right {
+  float: right;
+}
+.clear {
+  clear: both;
+}
