@@ -91,6 +91,11 @@
   margin-bottom: 15px;
   border: 1px solid #d2cac3;
 }
+.main-columns__wrap {
+  width: 1002px;
+  margin: 0 auto;
+  background-color: #ebeae8;
+}
 .clear {
   clear: both;
 }
