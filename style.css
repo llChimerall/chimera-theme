@@ -39,11 +39,15 @@
   border: 1px solid #c56b1b;
   border-radius: 3px;
   height: 40px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
   font-family: Verdana;
   font-weight: bold;
   color: white;
+  text-decoration: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 14px;
 }
 .subscribe {
   font-family: 'Verdana';
@@ -106,11 +110,6 @@
 }
 .main-columns__navigation {
   text-align: right;
-}
-.main-columns__navigation a {
-  text-decoration: none;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 .clear {
   clear: both;
