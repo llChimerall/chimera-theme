@@ -20,7 +20,7 @@
   padding-left: 10px;
   background-color: #516070;
   text-align: center;
-  border-radius: 3px 3px 0 0;
+  border-radius: 5px 5px 0 0;
 }
 .heading_color_green {
   border-top-color: #3d9e69;
@@ -87,9 +87,8 @@
 }
 .main-columns__right-part {
   background-color: #ffffff;
-  border-radius: 3px 3px 3px 3px;
+  border-radius: 5px 5px 5px 5px;
   margin-bottom: 35px;
-  background-color: grey;
   border: 1px solid #d2cac3;
 }
 .clear {
