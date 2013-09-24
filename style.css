@@ -94,6 +94,8 @@
 .main-columns__wrap {
   width: 1002px;
   margin: 0 auto;
+}
+.main-columns {
   background-color: #ebeae8;
 }
 .clear {
