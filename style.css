@@ -81,15 +81,17 @@
 }
 .main-columns__left {
   float: left;
-  background-color: grey;
   width: 70%;
   margin-right: 5%;
 }
 .main-columns__right {
   float: right;
-  background-color: grey;
   width: 25%;
 }
 .clear {
   clear: both;
+}
+.subscribe__description-graphic,
+.subscribe__description-text {
+  background-color: grey;
 }
