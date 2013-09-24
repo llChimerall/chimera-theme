@@ -76,6 +76,11 @@
   background-color: #f5f0ec;
   margin-top: 15px;
 }
+.subscribe__form-footer-left {
+  padding: 8px;
+  text-align: right;
+  margin-top: 15px;
+}
 .main-columns__left {
   float: left;
   width: 70%;
@@ -97,6 +102,12 @@
 }
 .main-columns {
   background-color: #ebeae8;
+}
+.main-columns__left-part {
+  background-color: #ffffff;
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 30px;
+  border: 1px solid #d2cac3;
 }
 .clear {
   clear: both;
